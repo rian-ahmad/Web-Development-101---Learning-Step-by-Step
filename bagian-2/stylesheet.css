@@ -1,0 +1,28 @@
+img {
+
+    width: 150px;
+
+    height: 150px;
+}
+
+
+table,
+td {
+
+    border: 2px #70b8ff solid;
+
+}
+
+p {
+
+    color: blue;
+
+}
+
+
+
+span {
+
+    color: red;
+
+}
